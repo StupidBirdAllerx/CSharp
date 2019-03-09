@@ -1,0 +1,7 @@
+E:\work\C#\Homework\Homework2\work2_7\work2_7\bin\Debug\work2_7.exe.config
+E:\work\C#\Homework\Homework2\work2_7\work2_7\bin\Debug\work2_7.exe
+E:\work\C#\Homework\Homework2\work2_7\work2_7\bin\Debug\work2_7.pdb
+E:\work\C#\Homework\Homework2\work2_7\work2_7\obj\Debug\work2_7.csprojAssemblyReference.cache
+E:\work\C#\Homework\Homework2\work2_7\work2_7\obj\Debug\work2_7.csproj.CoreCompileInputs.cache
+E:\work\C#\Homework\Homework2\work2_7\work2_7\obj\Debug\work2_7.exe
+E:\work\C#\Homework\Homework2\work2_7\work2_7\obj\Debug\work2_7.pdb
