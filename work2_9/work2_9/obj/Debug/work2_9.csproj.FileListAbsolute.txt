@@ -1,0 +1,7 @@
+E:\VSCode\C#\Homework2\work2_9\work2_9\bin\Debug\work2_9.exe.config
+E:\VSCode\C#\Homework2\work2_9\work2_9\bin\Debug\work2_9.exe
+E:\VSCode\C#\Homework2\work2_9\work2_9\bin\Debug\work2_9.pdb
+E:\VSCode\C#\Homework2\work2_9\work2_9\obj\Debug\work2_9.csprojAssemblyReference.cache
+E:\VSCode\C#\Homework2\work2_9\work2_9\obj\Debug\work2_9.csproj.CoreCompileInputs.cache
+E:\VSCode\C#\Homework2\work2_9\work2_9\obj\Debug\work2_9.exe
+E:\VSCode\C#\Homework2\work2_9\work2_9\obj\Debug\work2_9.pdb
